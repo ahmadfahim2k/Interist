@@ -26,3 +26,6 @@ On the back-end,
 - safely store app secrets in `.env` (nobody can see this but you and people you invite)
 
 ---
+
+
+![Interist-Demo_gif](https://github.com/ahmadfahim2k/Interist/blob/main/Reader_gif_Trim.gif)
