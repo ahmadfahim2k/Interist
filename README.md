@@ -27,5 +27,4 @@ On the back-end,
 
 ---
 
-
-![Interist-Demo_gif](https://github.com/ahmadfahim2k/Interist/blob/main/Reader_gif_Trim.gif | height=200) 
+<img src="https://github.com/ahmadfahim2k/Interist/blob/main/Reader_gif_Trim.gif" width="202" height ="433"/>
